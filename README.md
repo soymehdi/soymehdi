@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm mehdi ghobeishi</h1>
 <h3 align="center">cs student and python developer</h3>
 
-- 🌱 I’m currently learning **AI related libraries on python.**
+- 🌱 I’m currently learning *AI related libraries and automation on python.*
+- 🤔 I’m looking for help with *some of my projects.*
 
 - 📫 How to reach me **ghobeishimehdi@gmail.com**
 
